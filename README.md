@@ -16,7 +16,7 @@ Mesmo me baseando no editorial, tive muita dificuldade para implementar o heap.
 --------------------------------------------------------------------------------------------------------------------------
 Exercício 3 de Algoritmo e Estrutura de Dados I
 
-O exercicio feito em aula rodou no leetcode mas deu erro de runtime no submit, eu tinha uma ideia do que poderia estar causando o erro mas como tinha pouco tempo nao consegui arrumar pra enviar.
+**O exercicio feito em aula rodou no leetcode mas deu erro de runtime no submit, eu tinha uma ideia do que poderia estar causando o erro mas como tinha pouco tempo nao consegui arrumar pra enviar.
 Nos dois exercicios, no feito em aula e em casa, eu utilizei o DFS que eu ja tinha trabalhado em alguns exercicios do leetcode que fiz nas ultimas semanas, eu diria que a principal mudança que no de casa eu usei memória alocada e no feito em aula eu usei um vetor com um tamanho especifico e era isso que tava dando erro no submit, ja que os testes eram muito extensos. Eu iniciei o exercicio em aula com memória alocada mas tava dando um erro em algo e eu nao consegui localizar onde q era entao fiz com vetor pra ver se ia e foi, depois nao tive tempo pra tentar novamente com memoria alocada. 
-Outra coisa que implementei no feito em casa foi o qsort pra organização o array de somas da árvore, além de utilizar fila auxiliar a contrução da árvore porque acho que fica mais bonio no código, e como estava com pressa nao consegui fazer em aula.
+Outra coisa que implementei no feito em casa foi o qsort pra organização o array de somas da árvore, além de utilizar fila auxiliar a contrução da árvore porque acho que fica mais bonio no código, e como estava com pressa nao consegui fazer em aula.**
 
